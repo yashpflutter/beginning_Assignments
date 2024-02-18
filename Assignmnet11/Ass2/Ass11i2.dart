@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Assignment10i2 extends StatelessWidget {
-  const Assignment10i2({super.key});
+class Assignment11i2 extends StatelessWidget {
+  const Assignment11i2({super.key});
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -27,11 +27,6 @@ class Assignment10i2 extends StatelessWidget {
       body: Center(
           child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          const Text(
-            "CORE2WEB",
-          )
-        ],
       )),
     );
   }
