@@ -1,0 +1,6 @@
+ass of 11 ass
+
+create the 9 players name and using listview 
+
+create textfield
+make a login page :add name,company name,loc, then sub,it button ,and a block in that name comapny name loc and photo of caompany
