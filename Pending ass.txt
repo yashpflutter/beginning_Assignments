@@ -4,3 +4,6 @@ create the 9 players name and using listview
 
 create textfield
 make a login page :add name,company name,loc, then sub,it button ,and a block in that name comapny name loc and photo of caompany
+ 
+
+create apage in which add padding as bod and add a listview in whcich add continers give colors by using another list of colors and add columns and colors in it add a bottom winndows n it usiing floating action button s
